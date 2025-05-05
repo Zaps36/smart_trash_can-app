@@ -40,7 +40,7 @@ latest_prediction = {
 DATA_FILE = 'trash_data.json'
 
 # Ubidots configuration
-UBIDOTS_TOKEN = "BBUS-2CnMsYYSV9hgXRjc6lTgCKZYi9dECy"  # Replace with your actual token
+UBIDOTS_TOKEN = os.getenv("UBIDOTS_TOKEN")  # Replace with your actual token
 DEVICE_LABEL = "smart_trash_classifier"  # Device label for Ubidots
 VARIABLE_LABELS = {
     'Organic': "organic_count",
