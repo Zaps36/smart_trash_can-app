@@ -715,7 +715,7 @@ def main():
             st.markdown('</div>', unsafe_allow_html=True)
             
             # Summary insights
-            if len(hourly_df) >= 24:  # If we have at least a day's worth of data
+            if len(hourly_df) >= 5:  # If we have at least a day's worth of data
                 # Find peak hour
                 peak_hour = hourly_df.loc[hourly_df['total'].idxmax()]
                 peak_time = peak_hour['timestamp'].strftime('%H:00')
