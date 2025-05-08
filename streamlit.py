@@ -701,7 +701,7 @@ def main():
             Analyze when trash is most frequently detected to optimize waste management strategies
         </p>
         """, unsafe_allow_html=True)
-        
+        # Debugging Marker!
         # Time-based charts
         if not hourly_df.empty and len(hourly_df) > 1:
             st.markdown('<div class="chart-container">', unsafe_allow_html=True)
