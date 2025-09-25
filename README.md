@@ -101,7 +101,3 @@ For inquiries, please reach out via:
 * Portfolio: [jerry-portofolio-six.vercel.app](https://jerry-portofolio-six.vercel.app/)
 
 ---
-
-👉 Dengan README seperti ini, repo kamu terlihat **profesional, rapi, dan kredibel** — cocok ditaruh di CV / LinkedIn.
-
-Mau aku bikinin juga **requirements.txt sample** buat Python dependencies (Streamlit, Flask, OpenCV, dsb.) biar repo kamu lebih siap dipakai orang lain?
