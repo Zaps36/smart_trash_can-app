@@ -1,7 +1,7 @@
 # 📦 Smart Trash Bin — IoT & AI Waste Classification
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/99603e1f-7c1a-4eb6-9a55-482555072f29" alt="SIC1" width="600"/>
+  <img src="https://github.com/user-attachments/assets/99603e1f-7c1a-4eb6-9a55-482555072f29" alt="SIC1" height="600"/>
 </div>
 
 ---
