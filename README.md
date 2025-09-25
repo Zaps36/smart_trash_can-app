@@ -1,9 +1,3 @@
-Nice 👍 biar GitHub kamu lebih profesional, aku buatkan **README.md** template yang rapi dan siap kamu pakai langsung. Sudah aku sesuaikan dengan project *Smart Trash Bin with ESP32-CAM and Flask* + deployment Streamlit.
-
-Kamu tinggal copy ke file `README.md` di repo GitHub kamu.
-
----
-
 # 📦 Smart Trash Bin — IoT & AI Waste Classification
 
 ![Smart Trash Bin](./assets/cover.png) <!-- (opsional: ganti dengan gambar prototipe/dashboard) -->
@@ -92,9 +86,10 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Contributors
-
-* [Jerry Sebastian](https://github.com/Zaps36) — Backend & IoT Integration
-* Team Members (if any, optional)
+Farrel Laurensius Suryadi
+Jason Therawan
+Valentinus Ayodya Koesyudawisama
+Jerry Sebastian
 
 ---
 
