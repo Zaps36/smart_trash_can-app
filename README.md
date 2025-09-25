@@ -1,6 +1,7 @@
 # 📦 Smart Trash Bin — IoT & AI Waste Classification
 
-![Smart Trash Bin](./assets/cover.png) <!-- (opsional: ganti dengan gambar prototipe/dashboard) -->
+![SIC1](https://github.com/user-attachments/assets/99603e1f-7c1a-4eb6-9a55-482555072f29)
+
 
 ## 📖 Project Overview
 
@@ -43,6 +44,18 @@ This project was developed as part of **Samsung Innovation Campus Batch 6 (2024/
   * Streamlit (web deployment & dashboard)
   * OpenCV / Machine Learning (image classification)
 * **Database:** MySQL (optional for logging)
+  
+## 🧠 Model Training
+
+The image classification model was trained using **MobileNetV2** on a balanced dataset of 3 classes:
+- Organic
+- Plastic
+- Other
+
+Steps included:
+- Data augmentation & balancing (15k images per class)
+- Transfer learning with MobileNetV2 (pretrained on ImageNet)
+- Achieved high accuracy on validation data
 
 ---
 
@@ -68,12 +81,14 @@ streamlit run app.py
 ## 📸 Screenshots
 
 * **Visualization Page**
-* **Dashboard Overview**
-* **Time Analysis**
-* **Latest Detection**
-* **Prototype (Exterior & Interior)**
+* ![SIC3](https://github.com/user-attachments/assets/96f38d60-54e5-4058-8345-5f053015c8a1)
 
-*(Add images in `/assets/` folder and link here)*
+* **Dashboard Overview**
+* ![SIC1](https://github.com/user-attachments/assets/0153d8d9-e832-4760-93f7-e73f8d4972bb)
+
+* **Prototype (Exterior & Interior)**
+* ![SIC4](https://github.com/user-attachments/assets/2a535ebc-c72d-46ab-bfdc-b9e193b30b27)
+* ![SIC5](https://github.com/user-attachments/assets/2bd433a0-20c1-4c0d-9b60-3340ff954609)
 
 ---
 
