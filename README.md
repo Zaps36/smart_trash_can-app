@@ -88,10 +88,11 @@ streamlit run app.py
 * <img src="https://github.com/user-attachments/assets/96f38d60-54e5-4058-8345-5f053015c8a1" alt="Visualization" width="600"/>
 
 * **Dashboard Overview**
-* <img src="https://github.com/user-attachments/assets/0153d8d9-e832-4760-93f7-e73f8d4972bb" alt="Dashboard" width="600"/>
+* <img src="https://github.com/user-attachments/assets/0153d8d9-e832-4760-93f7-e73f8d4972bb" alt="Dashboard" height="600"/>
 
 * **Prototype (Exterior & Interior)**
-* <img src="https://github.com/user-attachments/assets/2a535ebc-c72d-46ab-bfdc-b9e193b30b27" alt="Exterior" width="400"/> <img src="https://github.com/user-attachments/assets/2bd433a0-20c1-4c0d-9b60-3340ff954609" alt="Interior" width="400"/>
+* <img src="https://github.com/user-attachments/assets/2a535ebc-c72d-46ab-bfdc-b9e193b30b27" alt="Exterior" height="600"/>
+* <img src="https://github.com/user-attachments/assets/2bd433a0-20c1-4c0d-9b60-3340ff954609" alt="Interior" height="600"/>
 
 ---
 
